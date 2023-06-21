@@ -74,26 +74,30 @@ export const projects = [
 export const TimeLineData = [
   {
     year: 2011,
-    text: 'Graduated college in the Iraq with a Technical Communication Engineering Bachelors Degree  and began work as a Process Web Developer',
+    text: 'Graduated college in the Iraq with a Technical Communication Engineering Bachelors Degree',
+  },
+  {
+    year: 2012,
+    text: 'Working as a Process Web Developer in Communication and Media Commission',
   },
   {
     year: 2017,
-    text: 'Graduated Harbin Institute of Technology in the China with a Information and Communication Engineering Masters Degree',
+    text: 'Graduated Harbin Institute of Technology with a Information and Communication Engineering Masters Degree',
   },
   {
     year: 2018,
-    text: 'Moved to Ottawa, Canada, began work as a Freelancer Web Developer',
+    text: 'Working as a Freelancer Web Developer',
   },
   {
     year: 2020,
-    text: 'Completed Web Development Bootcamp with Lighthouse Labs in Ottawa',
+    text: 'Completed Web Development Bootcamp with Lighthouse Labs',
   },
   {
     year: 2021,
-    text: 'Working as a Full Stack Developer with Women IT Teleworkers - Ottawa, ON',
+    text: 'Working as a Full Stack Developer with Women IT Teleworkers ',
   },
   {
     year: 2022,
-    text: 'Working as a Software Engineer with Nitrex Metal Inc. - Montréal, QC',
+    text: 'Working as a Software Engineer with Nitrex Metal Inc.',
   },
 ];
