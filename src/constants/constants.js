@@ -74,7 +74,7 @@ export const projects = [
 export const TimeLineData = [
   {
     year: 2011,
-    text: 'Graduated college in the Iraq with a Technical Communication Engineering Bachelors Degree',
+    text: 'Graduated college with a Technical Communication Engineering Bachelors Degree',
   },
   {
     year: 2012,

@@ -67,21 +67,28 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        In 2020 I completed a Bootcamp with Lighthouse Labs in Ottawa, this
-        ignited my passion for coding and led me to dive into JavaScript and
-        React which have become the language and framework that I build the
-        majority of my current apps. Since then I have added a variety of
-        frameworks such as MaterialUI, Syncfusion, Tailwind, and apps such as
-        OpenAI to enhance and add complexity to my sites.
-        <br />
-        <br />
-        I love learning and self-development which has been built on throughout
-        my life and enhanced by my background in Communication and Information
-        Engineering where problem-solving was a day-to-day occurrence.
-        <br />
-        {/* <br />
-        In my spare time, you can find me at Muay Thai, walking Bear - my
-        Samoyed, dining with friends or at a concert! */}
+        Ever since I was young, I have had a keen interest in technology and
+        been curious about how things work. This passion carried me to complete
+        my Bachelor’s degree in Technical Communication Engineering. I’m never
+        content with where I’m at in my development. I took my education to next
+        level and have completed a Master’s Degree in Communication and
+        Information Engineering from Harbin Institute Technology in China. I
+        worked for two years as a web developer and I have experience building
+        websites and web applications. My education and experience, allowed me
+        to be familiar with wide range of programming languages. I spend eight
+        to ten hours a day in front of a computer screen as I am coding and
+        debugging endless applications, You wish for something and programming
+        can made it possible if you have enough resources and skill. I love how
+        programming builds your problem solving skill, which increases your
+        creativity, and when you become more creative in a project, you explore
+        it, you love it, and you dream about it.Things which I use to dream
+        about a year ago are real these days. I've embarked on a journey to
+        round out my skills. I am completing a Lighthouse Labs program to become
+        a full stack developer.Skills/Interests: JavaScript, Node, React,
+        Python, Django, j Query, CSS, HTML, Bootstrap, Git/GitHub, SQL,
+        PostgreSQL.I am still enthusiastically grabbing onto other programming
+        languages, frameworks, or principles I can integrate into the coding web
+        in my head.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
